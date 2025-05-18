@@ -8,7 +8,7 @@ Format will be like: {"John": [1234567890, 9876543210]}
 
 inp = input(...): Takes the first operation from the user (add, search, delete, etc.).
 
- 2) PART 2 - 
+ 2) PART B - 
 
  add(name, num): Adds a number to the contact name.
 
